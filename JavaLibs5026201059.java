@@ -1,5 +1,4 @@
-package com.company;
-import javax.swing.JOptionPane;
+import javax.swing.*;
 
 public class Main {
 
